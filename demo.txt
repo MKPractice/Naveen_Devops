@@ -1,3 +1,3 @@
-This is DEMO
+This is DEMO file to explain conflicts
 
 HOPE you are clear
